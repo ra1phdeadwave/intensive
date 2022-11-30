@@ -618,6 +618,9 @@ section{
     .header{
         padding: 25px 0;
     }
+    .header__logo{
+        margin: 0 auto;
+    }
     .header__logo-image{
         width: 125px;
     }
